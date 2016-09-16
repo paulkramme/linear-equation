@@ -4,6 +4,6 @@
 
 int main(void)
 {
-	menu(getch());
+	menulogic(getch());
 	return 0;
 }
