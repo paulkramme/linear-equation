@@ -1,7 +1,8 @@
 #include<stdio.h>
+#include"getch.h"
 
 int main(void)
 {
-	puts("YAY!");
+	
 	return 0;
 }
